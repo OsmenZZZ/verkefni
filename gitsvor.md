@@ -4,9 +4,9 @@ o ls - listar niður allt sem er í möppuni
 o pwd - sýnir working direcectory náknæmlega þannnig það byrjar á c/Users/ osf.
 o mkdir - býr til möppu
 2. Hvað gera eftirfarandi Git skipanir?
-o git clone
-o git status
-o git diff
+o git clone - býr til afrit af repository
+o git status - sýnir statusinn sem sýnir hvort þú sért búinn að bæta einvherju við með add og sýnir hvað það þarf efitir að commita
+o git diff - sýnir mismunin milli repositories
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 o git log
 o git checkout
