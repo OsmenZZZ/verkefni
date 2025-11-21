@@ -16,4 +16,5 @@ o git branch - til þess að búa til nýja eða skoða núverandi greina og þe
 5. Hverjir eru helstu kostir við að nota GIT?
 Margir geta unnið í verkefni saman, hægt er að bera saman lagfæringar og eða eitthverju sem er bætt inn og ef eitthvað fer úrskeiðis eins og eitthvað eytt óvart, alltaf hægt er að fara í eldri útgáfu og bjargið það
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+Bara hvert sinn sem þú bætir við nýtt feature eða breyta einhvern kóða svo fólk geta skoðið breytinguna strax
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
