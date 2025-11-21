@@ -19,3 +19,7 @@ Margir geta unnið í verkefni saman, hægt er að bera saman lagfæringar og e�
 Bara hvert sinn sem þú bætir við nýtt feature eða breyta einhvern kóða svo fólk geta skoðið breytinguna strax
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
 Working directory er svæðið þar sem við erum að vinna í t.d. kóðinn, staging area er það sem við sendum inn áður en það fer í kommit, svo við getum safnað saman kóða smátt og smátt í staging area með add, svo committa þegar það er kominn tími til þess
+
+![Bara eitthvað](https://i.ebayimg.com/images/g/MbUAAOSwI7ZimiI5/s-l1200.jpg)
+Vefsíða fyrir fleiri upplýsingar á git
+https://git-scm.com/
