@@ -1,4 +1,4 @@
-#Git Verkefni
+# Git Verkefni
 1. Hvað gera eftirfarandi Linux skipanir?
 o cd - færir vinnuskránna í
 o ls - listar niður allt sem er í möppuni
